@@ -19,7 +19,7 @@
 - Logo Design
 - Social Media Post Designs
 
-![Graphic Design Sample](link-to-your-graphic-design-image.jpg)
+![Graphic Design Sample](https://github.com/Otu-Ujong/Design-Portfolio-Where-Creativity-Meets-Purpose.git)
 
 #### Health Writing
 
